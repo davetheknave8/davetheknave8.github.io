@@ -42,14 +42,6 @@ nav {
     overflow: auto;
 }
 
-#contact {
-    display: flex;
-    background-color: #D8DBE2;
-    width: 40vh;
-    height: 40vh;
-    margin: 10vh;
-}
-
 #photo {
     display: flex;
     width: 50vh;
@@ -215,4 +207,14 @@ a:hover {
 
 #pythondesc {
     text-align: justify;
+}
+
+#contact {
+    margin: auto;
+    width: 60vh;
+    height: 40vh;
+    margin-top: 10vh;
+    background-color: #A9BCD0;
+    padding: 20px;
+    padding-bottom: 20px;
 }
